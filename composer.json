@@ -1,0 +1,14 @@
+{
+        "name": "spysystem/barcode-128",
+        "description": "PHP library for generating Barcode-128 images",
+        "license": "open-source",
+        "require": {
+                "php": ">=7.0.0"
+        },
+        "autoload": {
+                "psr-4": {
+            "Barcode128\\": "src"
+           }
+        }
+}
+
